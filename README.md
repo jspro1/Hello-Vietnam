@@ -28,5 +28,4 @@ PHP, HTML, CSS, JavaScript.
 2. Alternatively, you can import the repo into Replit and run it there using a PHP Web Server instance.
 
 ## 🇻🇳 Hello Vietnam Demo
-**[View Demo](https://demo-lab.hello-vietnam-discover-the-beauty.repl.co)**
-
+**[View Demo](https://6e0f90ca-3b7c-4b01-aa85-4b7ea705e696-00-m2og4nb4bhcd.riker.replit.dev/)**
