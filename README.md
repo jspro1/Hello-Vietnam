@@ -23,7 +23,7 @@ A mobile-friendly prototype app for exploring Vietnam.
 
 PHP, HTML, CSS, JavaScript.
 
-## Quick Start
+## 🏮 Quick Start
 1. Clone the repo and run it locally using PHP's built-in server.
 2. Alternatively, you can import the repo into Replit and run it there using a PHP Web Server instance.
 
