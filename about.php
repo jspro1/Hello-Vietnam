@@ -16,7 +16,7 @@ include 'header.php';
         </nav>
 
         <div class="card">
-            <h2>🇻🇳 Vietnam at a Glance</h2>
+            <h2> 🏮 Vietnam at a Glance</h2>
             <p>Vietnam is a country in Southeast Asia known for its bustling cities, beaches, rivers, pagodas.</p>
         </div>
 
