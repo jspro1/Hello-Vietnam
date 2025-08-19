@@ -29,6 +29,10 @@ PHP, HTML, CSS, JavaScript.
 
 ## 🏮 Hello Vietnam - Demo
 
+🌐 **[View Live Demo](http://hello-vietnam-demo.atwebpages.com/)** *(opens in new tab)*
+
+## 🏮 Hello Vietnam - Demo
+
 🌐 **[View Live Demo](http://hello-vietnam-demo.atwebpages.com/){:target="_blank"}**
 
 ## 🏮 Hello Vietnam - Demo
