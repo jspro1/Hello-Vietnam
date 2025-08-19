@@ -4,16 +4,10 @@ $page_title = 'About Vietnam - Hello Vietnam';
 $header_title = 'About Vietnam';
 $header_subtitle = 'Land of Endless Adventures';
 
-// Include header
+// Includes
 include 'header.php';
+include 'nav.php';
 ?>
-
-        <nav>
-            <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about.php" class="active">About Vietnam</a></li>
-            </ul>
-        </nav>
 
         <div class="card">
             <h2> 🏮 Vietnam at a Glance</h2>
