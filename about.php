@@ -17,7 +17,7 @@ include 'header.php';
 
         <div class="card">
             <h2> 🏮 Vietnam at a Glance</h2>
-            <p>Vietnam is a country in Southeast Asia known for its bustling cities, beaches, rivers, pagodas.</p>
+            <p>Vietnam is a country in Southeast Asia known for its bustling cities, beaches, rivers, and Buddhist pagodas.</p>
         </div>
 
         <div class="card">
