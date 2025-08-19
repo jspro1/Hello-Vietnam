@@ -75,11 +75,11 @@ include 'header.php';
 
         <div class="card">
             <h3>🌟 Why Choose Vietnam?</h3>
-            <p>Vietnam offers incredible value for money, diverse landscapes from mountains to beaches, 
-               rich history spanning thousands of years, and some of the friendliest people in the world. 
-               Whether you're seeking adventure, relaxation, cultural immersion, or culinary delights, 
-               Vietnam delivers an unforgettable experience that will leave you planning your return visit 
-               before you've even left.</p>
+            <p>Vietnam’s diverse landscapes—from mountains to beaches—its rich history spanning thousands of years, 
+               and the warmth of its people make it a destination like no other. Add to that an outstanding 
+               food culture and experiences that offer remarkable value, and you’ll find a place that delivers 
+               adventure, relaxation, and cultural immersion all in one journey.
+            </p>
         </div>
 
 <?php include 'footer.php'; ?>
