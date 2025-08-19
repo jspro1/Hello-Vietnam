@@ -2,10 +2,13 @@
 A mobile-friendly app for exploring Vietnam.
 
 <H2>Landing</H2>
-<img src="assets/landing-page2.png" alt="Hello Vietnam Landing Page" width="400"><br>
+<img src="assets/landing2.png" alt="Landing Page" width="400"><br>
 
 <H2>At a Glance</H2>
-<img src="assets/at-glance.png" alt="About Vietnam Page" width="400">
+<img src="assets/about2.png" alt="About Vietnam Page" width="400">
+
+<H2>At a Glance</H2>
+<img src="assets/festivals2.png" alt="Festivals Page" width="400">
 
 ## Overview
 
