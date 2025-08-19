@@ -7,7 +7,7 @@ A mobile-friendly app for exploring Vietnam.
 <H2>At a Glance</H2>
 <img src="assets/about2.png" alt="About Vietnam Page" width="400">
 
-<H2>At a Glance</H2>
+<H2>Festivals</H2>
 <img src="assets/festivals2.png" alt="Festivals Page" width="400">
 
 ## Overview
