@@ -26,7 +26,8 @@ PHP, HTML, CSS, JavaScript.
 ## Quick Start
 1. Clone the repo and run it locally using PHP's built-in server.
 2. Alternatively, you can import the repo into Replit and run it there using a PHP Web Server instance
-   
-## 🏮 Hello Vietnam - Demo
-**[View Demo]([https://6e0f90ca-3b7c-4b01-aa85-4b7ea705e696-00-m2og4nb4bhcd.riker.replit.dev](http://hello-vietnam-demo.atwebpages.com/about.php)**
 
+## 🏮 Hello Vietnam - Demo
+Discover the beauty of Vietnam through this interactive demo site.
+
+**[🌐 View Live Demo](http://hello-vietnam-demo.atwebpages.com/)**
