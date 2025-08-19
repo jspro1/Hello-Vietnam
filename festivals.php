@@ -5,8 +5,9 @@ $header_title = 'Vietnam\'s Festivals';
 $header_subtitle = 'Festivals, Traditions & Culture';
 
 // Includes
-include 'header.php';
-include 'nav.php';
+include 'includes/header.php';
+include 'includes/nav.php';
+
 ?>
 
         <div class="card" style="background: linear-gradient(135deg, #fff8e1, #fce4ec); border-left: 4px solid #ff6b6b;">
@@ -50,4 +51,4 @@ include 'nav.php';
             </ul>
         </div>
 
-<?php include 'footer.php'; ?>
+<?php include 'includes/footer.php'; ?>

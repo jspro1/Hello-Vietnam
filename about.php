@@ -5,8 +5,8 @@ $header_title = 'About Vietnam';
 $header_subtitle = 'Land of Endless Adventures';
 
 // Includes
-include 'header.php';
-include 'nav.php';
+include 'includes/header.php';
+include 'includes/nav.php';
 ?>
 
         <div class="card">
@@ -76,4 +76,4 @@ include 'nav.php';
             </p>
         </div>
 
-<?php include 'footer.php'; ?>
+<?php include 'includes/footer.php'; ?>

@@ -65,9 +65,10 @@ if ($_POST && isset($_POST['name']) && isset($_POST['email'])) {
 // Get lead count
 $lead_count = isset($_SESSION['leads']) ? count($_SESSION['leads']) : 0;
 
+
 // Includes
-include 'header.php';
-include 'nav.php';
+include 'includes/header.php';
+include 'includes/nav.php';
 
 ?>
         <!-- Cards  -->
@@ -202,4 +203,4 @@ include 'nav.php';
             </ul>
         </div>
 
-<?php include 'footer.php'; ?>
+<?php include 'includes/footer.php'; ?>
