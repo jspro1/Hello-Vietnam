@@ -1,5 +1,5 @@
 # 🏮 Hello Vietnam
-A mobile-friendly prototype app for exploring Vietnam.
+A mobile-friendly app for exploring Vietnam.
 
 <H2>Landing</H2>
 <img src="assets/landing-page2.png" alt="Hello Vietnam Landing Page" width="400"><br>
