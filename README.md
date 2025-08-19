@@ -29,7 +29,6 @@ PHP, HTML, CSS, JavaScript.
 
 
 ## 🏮 Hello Vietnam - Demo
-Discover the beauty of Vietnam through this interactive demo site. 🌐
+Discover the beauty of Vietnam through this interactive demo site.
 
-**[View Live Demo](http://hello-vietnam-demo.atwebpages.com/)**
-
+🌐 **[View Live Demo](http://hello-vietnam-demo.atwebpages.com/)**
