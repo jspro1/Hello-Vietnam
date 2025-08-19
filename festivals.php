@@ -2,7 +2,7 @@
 // Set page variables
 $page_title = 'Vietnam\'s Festivals - Hello Vietnam';
 $header_title = 'Vietnam\'s Festivals';
-$header_subtitle = 'Festivals, Traditions & Culture';
+$header_subtitle = 'Culture and Traditions';
 
 // Includes
 include 'includes/header.php';
