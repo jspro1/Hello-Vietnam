@@ -12,7 +12,7 @@ A mobile-friendly app for Vietnam travel discovery and cultural exploration.
 
 <H2>Discovery Agent — Entropia</H2>
 
-<img src="assets/hello-vietnam1.jpg" alt="Landing Page" width="400"><br>
+<img src="assets/discovery-agent-entropia.jpg" alt="Discovery Agent — Entropia" width="400"><br>
 
 
 ## Overview
