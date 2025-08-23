@@ -9,6 +9,9 @@ A mobile-friendly app for exploring Vietnam.
 
 <H2>Festivals</H2>
 <img src="assets/festivals2.png" alt="Festivals Page" width="400">
+
+<H2>Discovery Agent — Entropia</H2>
+
 <img src="assets/hello-vietnam1.jpg" alt="Landing Page" width="400"><br>
 
 
