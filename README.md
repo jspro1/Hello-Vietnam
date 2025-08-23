@@ -1,5 +1,5 @@
 # 🏮 Hello Vietnam
-A mobile-friendly app for exploring Vietnam.
+A mobile-friendly app for Vietnam travel discovery and cultural exploration.
 
 <H2>Landing Page</H2>
 <img src="assets/landing2.png" alt="Landing Page" width="400"><br>
