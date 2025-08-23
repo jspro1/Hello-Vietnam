@@ -26,6 +26,7 @@ A mobile-friendly app for exploring Vietnam.
 - Mobile-responsive design patterns.
 - Clean, tourism-focused UX design.
 - Form submission and email processing (with debug output).
+- Agentic discovery concept (Entropia).
 
 ## Tech Stack
 
