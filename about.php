@@ -1,4 +1,5 @@
 <?php
+// © 2025 jspro1. All rights reserved. 
 // Set page variables
 $page_title = 'About Vietnam - Hello Vietnam';
 $header_title = 'About Vietnam';
