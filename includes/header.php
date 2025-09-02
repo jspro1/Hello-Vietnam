@@ -16,6 +16,6 @@ if (session_status() == PHP_SESSION_NONE) {
     <div class="container">
         <header>
             <div class="icon icon-vietnam-flag icon-center icon-lg"></div>
-            <h1><?php echo isset($header_title) ? $header_title : 'Hello Vietnam!'; ?></h1>
+            <h1><?php echo isset($header_title) ? $header_title : 'Xin chào Việt Nam!'; ?></h1>
             <p class="subtitle"><?php echo isset($header_subtitle) ? $header_subtitle : 'Discover the Land of Rising Dragon'; ?></p>
         </header>
