@@ -2,7 +2,7 @@
 // © 2025 jspro1. All rights reserved. 
 // Set page variables
 $page_title = 'Hello Vietnam - Discover the Beauty';
-$header_title = 'Hello Vietnam!';
+$header_title = 'Xin chào Việt Nam!';
 $header_subtitle = 'Discover the Land of the Rising Dragon';
 
 // Debug info for POC
