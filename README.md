@@ -26,7 +26,7 @@ A mobile-friendly app for Vietnam travel discovery and cultural exploration with
 - Mobile-responsive design patterns.
 - Clean, tourism-focused UX design.
 - Form submission and email processing (with debug output).
-- Agentic concept "Entropia", a personalized guide to support exploration and discovery.
+- Agentic concept "Entropia", a guide to support travel exploration and discovery.
 
 ## Tech Stack
 
