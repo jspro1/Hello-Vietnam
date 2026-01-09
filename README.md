@@ -36,7 +36,7 @@ PHP, HTML, CSS, JavaScript.
 1. Clone the repo and run it locally using PHP's built-in server.
 2. Alternatively, import the repo into Replit and run it there using a PHP Web Server instance
 
-## Hello Vietnam - Demo
+## Hello Vietnam — Demo
 
 🌐 **<a href="http://hello-vietnam-demo.atwebpages.com/" target="_blank">View Live Demo</a>**
 
